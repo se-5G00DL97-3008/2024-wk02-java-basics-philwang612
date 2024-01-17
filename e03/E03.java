@@ -4,7 +4,7 @@ class E03 {
         Scanner scanner = new Scanner(System.in);
 
         // Asking for a number
-        System.out.println("Enter a number:");
+        System.out.println("Enter a number: ");
         int number = scanner.nextInt();
 
         // Evaluating the number and printing the result
