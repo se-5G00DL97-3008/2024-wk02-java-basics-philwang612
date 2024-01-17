@@ -8,7 +8,7 @@ class E01 {
         long population = 7000000000L;
         byte num = 100;
         double pi = 3.13457599923384753929348;
-        
+
         System.out.println(x);
         System.out.println(y);
         System.out.println(flag);
