@@ -4,11 +4,11 @@ class E04 {
         Scanner scanner = new Scanner(System.in);
 
         // Asking for the day
-        System.out.println("Enter a day:");
+        System.out.println("Enter a day: ");
         int day = scanner.nextInt();
 
         // Asking for the month
-        System.out.println("Enter a month:");
+        System.out.println("Enter a month: ");
         int month = scanner.nextInt();
 
         // Checking if it's Christmas
