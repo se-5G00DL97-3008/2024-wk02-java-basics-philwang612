@@ -6,7 +6,7 @@ class E02 {
         System.out.println("Give a number: ");
         int number1 = scanner.nextInt();
 
-        System.out.println("Give another number: ");
+        System.out.println("Give a number: ");
         int number2 = scanner.nextInt();
 
         int sum = number1 + number2;
