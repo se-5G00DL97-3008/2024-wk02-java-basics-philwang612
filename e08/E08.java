@@ -4,7 +4,7 @@ class E08 {
         Scanner scanner = new Scanner(System.in);
         int number;
         while (true) {
-            System.out.println("Enter a number (0 to quit):");
+            System.out.println("Give a number (0 to quit):");
             number = scanner.nextInt();
 
             if (number == 0) {

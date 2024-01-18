@@ -6,7 +6,7 @@ class E07 {
         System.out.println("Which multiplicand multiplication table to show?");
         int multiplicand = scanner.nextInt();
 
-        System.out.println("Until which multiplier?");
+        System.out.println("Until which multiplier should the table show?");
         int maxMultiplier = scanner.nextInt();
 
         for (int i = 1; i <= maxMultiplier; i++) {
