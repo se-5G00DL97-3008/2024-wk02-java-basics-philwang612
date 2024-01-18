@@ -9,7 +9,7 @@ class E07 {
         System.out.println("Until which multiplier should the table show?");
         int maxMultiplier = scanner.nextInt();
 
-        for (int i = 1; i <= maxMultiplier; i++) {
+        for (int i = 0; i <= maxMultiplier; i++) {
             System.out.println(i + " x " + multiplicand + " = " + (i * multiplicand));
         }
     }
